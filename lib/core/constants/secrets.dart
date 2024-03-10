@@ -1,0 +1,3 @@
+const supabaseUrl = 'https://zyiomoggasnqqwpkscvq.supabase.co';
+const supabaseKey =
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inp5aW9tb2dnYXNucXF3cGtzY3ZxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTAwNTM2NTMsImV4cCI6MjAyNTYyOTY1M30.KK9dtIMURvBV5NicPN60c0-lsHhXDni0vTbQgwP6J8c';
